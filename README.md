@@ -16,17 +16,17 @@
 
 * From an end-user's perspective, Seraphim will offer:
 
-- Profile Signup & Customization: Users will be able to sign up and have the ability to fully customize their profiles, showcasing their unique style, interests, and creative works. This includes sharing music tastes, artwork, movies, TV shows, animations, and personal experiences, while adding visual elements to reflect their identity.
+&ensp;- Profile Signup & Customization: Users will be able to sign up and have the ability to fully customize their profiles, showcasing their unique style, interests, and creative works. This includes sharing music tastes, artwork, movies, TV shows, animations, and personal experiences, while adding visual elements to reflect their identity.
 
-- Safe Community Interaction: A robust moderation system will be in place to ensure harassment, objectification, and trolling are prevented. Users will be able to report, block, or mute other users, certain content, or private messages. Additionally, Seraphim will attempt to deal with negative online presences before being reported by other users.
+&ensp;- Safe Community Interaction: A robust moderation system will be in place to ensure harassment, objectification, and trolling are prevented. Users will be able to report, block, or mute other users, certain content, or private messages. Additionally, Seraphim will attempt to deal with negative online presences before being reported by other users.
 
-- Creative Showcasing & Interaction: Users will be able to share their creative works and projects, whether it’s art, videos, fashion, writing, or any form of self-expression, by being able to post blogs to their page and reply to the blogs of others.
+&ensp;- Creative Showcasing & Interaction: Users will be able to share their creative works and projects, whether it’s art, videos, fashion, writing, or any form of self-expression, by being able to post blogs to their page and reply to the blogs of others.
 
-- Direct Messaging & Groups: Community-driven users can create or join groups/groupchats based on fandoms, hobbies, or shared interests. Additionally, users will be able to message each other privately.
+&ensp;- Direct Messaging & Groups: Community-driven users can create or join groups/groupchats based on fandoms, hobbies, or shared interests. Additionally, users will be able to message each other privately.
 
 
 ## ♡ Scope
 
-* The scope of Seraphim is appropriately balanced for a team of 4 to 6 programmers to complete within one semester. While it incorporates several key features such as profile customization, creative showcasing, secure community interactions, and private messaging, each feature is manageable and can be divided into clear, focused tasks for team members.
+* The scope of Seraphim is appropriately balanced for a team of 4 to 6 programmers to complete within one semester. While it incorporates several key features such as profile customization, creative showcasing, community interactions, and private messaging, each feature is manageable and can be divided into clear tasks for team members.
 
 * The project is not overly ambitious, as it uses existing frameworks and tools for user authentication, profile creation, and content moderation, allowing the team to focus on developing the unique aspects of Seraphim, such as its creative-sharing features and robust moderation systems. At the same time, it is complex enough to provide a meaningful challenge in terms of ensuring a smooth user experience, integrating social interaction functionalities, and implementing advanced security features.
