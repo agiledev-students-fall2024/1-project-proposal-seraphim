@@ -1,4 +1,4 @@
-# Project Proposal - Seraphim
+# Project Proposal - Seraphim 🪽
 
 ## ♡ What and why?
 
@@ -16,13 +16,13 @@
 
 * From an end-user's perspective, Seraphim will offer:
 
-    * _Profile Signup & Customization:_ Users will be able to sign up and have the ability to fully customize their profiles, showcasing their unique style, interests, and creative works. This includes sharing music tastes, artwork, movies, TV shows, animations, and personal experiences, while adding visual elements to reflect their identity.
+    * **Profile Signup & Customization:** Users will be able to sign up and have the ability to fully customize their profiles, showcasing their unique style, interests, and creative works. This includes sharing music tastes, artwork, movies, TV shows, animations, and personal experiences, while adding visual elements to reflect their identity.
 
-    * _Safety Features:_ A robust moderation system will be in place to ensure harassment, objectification, and trolling are prevented. Users will be able to report, block, or mute other users, certain content, or private messages. Additionally, Seraphim will attempt to deal with negative online presences before being reported by other users.
+    * **Safety Features:** A robust moderation system will be in place to ensure harassment, objectification, and trolling are prevented. Users will be able to report, block, or mute other users, certain content, or private messages. Additionally, Seraphim will attempt to deal with negative online presences before being reported by other users.
 
-    * _Creative Showcasing & Interaction:_ Users will be able to share their creative works and projects, whether it’s art, videos, fashion, writing, or any form of self-expression, by being able to post blogs to their page and reply to the blogs of others.
+    * **Creative Showcasing & Interaction:** Users will be able to share their creative works and projects, whether it’s art, videos, fashion, writing, or any form of self-expression, by being able to post blogs to their page and reply to the blogs of others.
 
-    * _Direct Messaging & Groups:_ Community-driven users can create or join groups/groupchats based on fandoms, hobbies, or shared interests. Additionally, users will be able to message each other privately.
+    * **Direct Messaging & Groups:** Community-driven users can create or join groups/groupchats based on fandoms, hobbies, or shared interests. Additionally, users will be able to message each other privately.
 
 
 ## ♡ Scope
