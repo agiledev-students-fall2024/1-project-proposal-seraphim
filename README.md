@@ -1,6 +1,6 @@
-# Project Proposal
+# Project Proposal - Seraphim
 
-# Seraphim
+## ♡ What and why?
 
 * This semester, I would like to build Seraphim, a web application designed to empower users by enabling them to express their creativity and showcase their interests, including music tastes, art, TV shows, movies, animatons, styles, subcultures, and personal experiences.
 
@@ -16,13 +16,13 @@
 
 * From an end-user's perspective, Seraphim will offer:
 
-&ensp;- Profile Signup & Customization: Users will be able to sign up and have the ability to fully customize their profiles, showcasing their unique style, interests, and creative works. This includes sharing music tastes, artwork, movies, TV shows, animations, and personal experiences, while adding visual elements to reflect their identity.
+    * _Profile Signup & Customization:_ Users will be able to sign up and have the ability to fully customize their profiles, showcasing their unique style, interests, and creative works. This includes sharing music tastes, artwork, movies, TV shows, animations, and personal experiences, while adding visual elements to reflect their identity.
 
-&ensp;- Safe Community Interaction: A robust moderation system will be in place to ensure harassment, objectification, and trolling are prevented. Users will be able to report, block, or mute other users, certain content, or private messages. Additionally, Seraphim will attempt to deal with negative online presences before being reported by other users.
+    * _Safety Features:_ A robust moderation system will be in place to ensure harassment, objectification, and trolling are prevented. Users will be able to report, block, or mute other users, certain content, or private messages. Additionally, Seraphim will attempt to deal with negative online presences before being reported by other users.
 
-&ensp;- Creative Showcasing & Interaction: Users will be able to share their creative works and projects, whether it’s art, videos, fashion, writing, or any form of self-expression, by being able to post blogs to their page and reply to the blogs of others.
+    * _Creative Showcasing & Interaction:_ Users will be able to share their creative works and projects, whether it’s art, videos, fashion, writing, or any form of self-expression, by being able to post blogs to their page and reply to the blogs of others.
 
-&ensp;- Direct Messaging & Groups: Community-driven users can create or join groups/groupchats based on fandoms, hobbies, or shared interests. Additionally, users will be able to message each other privately.
+    * _Direct Messaging & Groups:_ Community-driven users can create or join groups/groupchats based on fandoms, hobbies, or shared interests. Additionally, users will be able to message each other privately.
 
 
 ## ♡ Scope
