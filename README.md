@@ -35,3 +35,5 @@
 
 * [Sahar Bueno-Abdala](https://github.com/saharbueno)
 * [Claire Kim](https://github.com/radishsoups)
+* [Yikai Ding](https://github.com/dyk2003)
+
