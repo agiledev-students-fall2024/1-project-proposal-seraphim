@@ -27,7 +27,7 @@
 
 ## ♡ Scope
 
-* The scope of Seraphim is appropriately balanced for a team of 4 to 6 programmers to complete within one semester. While it incorporates several key features such as profile customization, creative showcasing, community interactions, and private messaging, each feature is manageable and can be divided into clear tasks for team members.
+* The scope of Seraphim is appropriately balanced for a team of 4 to 5 programmers to complete within one semester. While it incorporates several key features such as profile customization, creative showcasing, community interactions, and private messaging, each feature is manageable and can be divided into clear tasks for team members.
 
 * The project is not overly ambitious, as it uses existing frameworks and tools for user authentication, profile creation, and content moderation, allowing the team to focus on developing the unique aspects of Seraphim, such as its creative-sharing features and robust moderation systems. At the same time, it is complex enough to provide a meaningful challenge in terms of ensuring a smooth user experience, integrating social interaction functionalities, and implementing advanced security features.
 
